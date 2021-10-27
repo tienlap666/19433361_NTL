@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NguyenTienLap19433361</string>
+    <string name="price">Price</string>
+
+    <string name="clear">Clear</string>
+    <string name="_0">0</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+
+    <string name="_1c_0">1c:</string>
+    <string name="_5c_0">5c:</string>
+    <string name="_10c_0">10c:</string>
+    <string name="_25c_0">25c:</string>
+    <string name="_01_0">$01:</string>
+    <string name="_05_0">$05:</string>
+    <string name="_10_0">$10:</string>
+    <string name="_20_0">$20:</string>
+
+    <string name="count20d">0</string>
+    <string name="count10d">0</string>
+    <string name="count05d">0</string>
+    <string name="count01d">0</string>
+    <string name="count25c">0</string>
+    <string name="count10c">0</string>
+    <string name="count5c">0</string>
+    <string name="count1c">0</string>
+
+    <string name="alertBigNum">Cannot enter a larger number!</string>
+</resources>
